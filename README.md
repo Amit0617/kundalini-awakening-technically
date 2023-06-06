@@ -53,8 +53,9 @@ Uddiyâna Bandha, mûla Bandha, Jâlandhara Bandha.
 Viparîta Karanî, Vajroli, and Śakti Châlana. These are
 the ten mudrâs which annihilate old age and death.
 
-<h3 style="text-align: center; text-decoration: underline;"><a href="https://en.wikipedia.org/wiki/Mahamudra_(Hatha_Yoga)">Atha mahāmudrā</a></h3>
+<h3 style="text-align: center; text-decoration: underline;">Atha mahāmudrā</h3>
 
+<a href="https://en.wikipedia.org/wiki/Mahamudra_(Hatha_Yoga)">Pictorial description</a>
 >Pādamūlena vāmena yonim sampīdya dakshinām  
 Prasāritam padam krtvā karābhyām dhārayeddrdham
 
