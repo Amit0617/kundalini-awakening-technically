@@ -48,14 +48,14 @@ Uddīyānam mūlabandhaścha bandho jālandharābhidhah
 Karanī viparītākhyā vajrolī śaktichālanam  
 Idam hi mudrādaśakam jarāmarananāśanam
 
->Mahâ mudrâ, mahâ Bandha, mahâ Vedha, Khecharî,
+>[Mahâ mudrâ](https://github.com/Amit0617/kundalini-awakening-technically#atha-mah%C4%81mudr%C4%81), mahâ Bandha, mahâ Vedha, Khecharî,
 Uddiyâna Bandha, mûla Bandha, Jâlandhara Bandha.
 Viparîta Karanî, Vajroli, and Śakti Châlana. These are
-the ten mudrâs which annihilate old age and death.
+the 10 mudrâs which annihilate old age and death.
 
-<h3 style="text-align: center; text-decoration: underline;">Atha mahāmudrā</h3>
+### Atha mahāmudrā
 
-<a href="https://en.wikipedia.org/wiki/Mahamudra_(Hatha_Yoga)">Pictorial description</a>
+[Pictorial representation](https://en.wikipedia.org/wiki/Mahamudra_(Hatha_Yoga))
 >Pādamūlena vāmena yonim sampīdya dakshinām  
 Prasāritam padam krtvā karābhyām dhārayeddrdham
 
@@ -120,4 +120,103 @@ Ghopanīyā prayatnena na deyā yasya kasyachit
 great success (Siddhi) to men. It should be kept secret
 by every effort, and not revealed to any and everyone.
 
+### Atha mahābandhah
+
+>Pārshnim vāmasya pādasya yonisthāne niyojayet  
+Vāmorūpari samsthāpya dakshinam charanam tathā
+
+>Press the left heel to the perineum and place the right
+foot on the left thigh.
+
+>Pūrayitvā tato vāyum hrdaye chubukam drdham  
+Nishpīdya yonimākuñchya manomadhye niyojayet
+
+>Fill in the air, keeping the chin firm against the chest,
+and, having pressed the air, the mind should be fixed on the middle of the eyebrows (or in the susumnâ (the spine)).
+
+>Dhārayitvā yathāśakti rechayedanilam śanaih  
+Savyāngghe tu samabhyasya dakshāngghe punarabhyaset
+
+>Having kept it confined so long as possible, it should be
+expelled slowly. Having practised on the left side, it
+should be practised on the right side.
+
+>Matamatra tu keshāmchitkanthabandham vivarjayet  
+Rājadantasthajihvāyā bandhah śasto bhavediti
+
+>Some are of opinion that the closing of throat is not
+necessary here, for keeping the tongue pressed against
+the roots of the upper teeth makes a good bandha (stop).
+
+>Ayam tu sarvanādīnāmūrdhvam ghatinirodhakah  
+Ayam khalu mahābandho mahāsiddhipradāyakah
+
+>This stops the upward motion of all the Nâdîs. Verily
+this mahâ Bandha is the giver of great Siddhis.
+
+>Kālapāśamahābandhavimochanavichakshanah  
+Trivenīsangghamam dhatte kedāram prāpayenmanah
+
+>This mahâ Bandha is the most skilful means for cutting
+away the snares of death. It brings about the conjunction
+of the Trivenî (Idâ, Pingalâ and Susumnâ) and carries
+the mind to Kedâr (the space between the eyebrows,
+which is the seat of Śiva).
+
+>Rūpalāvanyasampannā yathā strī purusham vinā  
+Mahāmudrāmahābandhau nishphalau vedhavarjitau
+
+>As beauty and loveliness, do not avail a woman without
+husband, so the mahâ mudrâ and the mahâBandha are
+useless without the mahâ Vedha.
+
+### Atha mahāvedhah
+
+>Mahābandhasthito yogī krtvā pūrakamekadhīh  
+Vāyūnām ghatimāvrtya nibhrtam kanthamudrayā
+
+>Sitting with mahâ Bandha, the Yogî should fill in the air
+and keep his mind collected. The movements of the
+Vâyus (Prâna and Apâna) should be stopped by closing
+the throat.
+
+>Samahastayugho bhūmau sphichau sanādayechchanaih  
+Putadvayamatikramya vāyuh sphurati madhyaghah
+
+>Resting both the hands equally on the ground, he should
+raise himself a little and strike his buttocks against the
+ground gently. The air, leaving both the passages
+namely Idâ and Pingalâ, starts into the middle one.
+
+>Somasūryāghnisambandho jāyate chāmrtāya vai  
+Mrtāvasthā samutpannā tato vāyum virechayet
+
+>The union of the Idâ and the Pingalâ is affected, in order
+to bring about immortality. When the air becomes as it
+were dead (by leaving its course through the Idâ and the
+Pingalâ) (i.e., when it has been kept confined), then it
+should be expelled.
+
+>Mahāvedhoayamabhyāsānmahāsiddhipradāyakah  
+Valīpalitavepaghnah sevyate sādhakottamaih
+
+>The practice of this mahâ Vedha, the giver of great
+Siddhis, destroys old age, grey hair, and shaking of the
+body, and therefore it is practised by the best masters.
+
+>Etattrayam mahāghuhyam jarāmrtyuvināśanam  
+Vahnivrddhikaram chaiva hyanimādighunapradam
+
+>These THREE are the great secrets. They are the
+destroyers of old age and death, increase the appetite,
+confer the accomplishments of Anima, etc.
+
+>Ashtadhā kriyate chaiva yāme yāme dine dine  
+Punyasambhārasandhāya pāpaughabhiduram sadā  
+Samyakśikshāvatāmevam svalpam prathamasādhanam
+
+>They should, be practised in 8 ways, daily and hourly.
+They increase collection of good actions and lessen the
+evil ones. People, instructed well, should begin their
+practice, little by little, first.
 <!-- ## Routine of Yogi -->
